@@ -1,5 +1,4 @@
 # Digital-Literacy-Project
-# Digital Literacy Project
 
 **Course:** CSE0001 – Digital Literacy 
 
